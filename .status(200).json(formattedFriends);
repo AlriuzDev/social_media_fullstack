@@ -1,0 +1,42 @@
+[33mcommit 6973e363e42f2d4bf88f61c77a4da0dc6b6439b3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Anderson <avictoral@gmail.com>
+Date:   Wed Oct 25 00:02:55 2023 -0400
+
+    updated authentication and authorization in node
+
+[33mcommit 63aef95d7cd4acde94333b049796c41b512d23ae[m
+Author: Anderson <avictoral@gmail.com>
+Date:   Wed Oct 25 00:01:47 2023 -0400
+
+    updated authentication and authorization in node
+
+[33mcommit 377cc7fcd4d7eda29ffa96340d157c4fc9927426[m
+Merge: 373bef5 d6a42c4
+Author: Anderson <avictoral@gmail.com>
+Date:   Tue Oct 24 20:08:15 2023 -0400
+
+    Merge branch 'main' of github.com:AlriuzDev/social_media_fullstack
+
+[33mcommit 373bef54fd82ee2d4b47225e1ef3d6a6df737b68[m
+Author: Anderson <avictoral@gmail.com>
+Date:   Tue Oct 24 20:07:13 2023 -0400
+
+    created controllers and model for auth
+
+[33mcommit d6a42c467268110ebe4829bc2d941a4a00fa6d77[m
+Author: AlriuzDev <148819284+AlriuzDev@users.noreply.github.com>
+Date:   Tue Oct 24 20:01:10 2023 -0400
+
+    Initial commit
+
+[33mcommit 1239176a2eef21bb9f76f679f409e20435bd1eda[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Anderson <avictoral@gmail.com>
+Date:   Tue Oct 24 12:40:30 2023 -0400
+
+    added db connection
+
+[33mcommit 9c14ebec940a4c117ec7671a24d296289d8845cc[m
+Author: Anderson <avictoral@gmail.com>
+Date:   Tue Oct 24 12:25:47 2023 -0400
+
+    First Commit basics configurations
